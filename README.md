@@ -25,11 +25,7 @@
 
 详细介绍见：http://www.cnblogs.com/skyblog/p/5127712.html
 
-代码中的nexus可以换成阿里云的：
-http://maven.aliyun.com/nexus/content/groups/public/
-或者在maven里做镜像。
-
 -------------------
--------------------
-
-
+----------------
+本人的另一个介绍使用spring-cloud的例子的项目
+https://github.com/zpng/spring-cloud-microservice-examples
